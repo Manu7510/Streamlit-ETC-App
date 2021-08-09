@@ -8,7 +8,7 @@ They make our lives simpler when we can read and follow them, but they posture i
 For instance, a traveler won't have the capacity to understand a sign in local language that indcates notices or risks. 
 This project mainly concentrates on recognzing text on signs.
 Signboard translator is a web app built in Streamlit, that uploads the signboard image , extracts the text from image, translates it to the desired language and converts it to audio.
-Here easyocr is used to extract the image text , IBM Watson API to translate it and gTTs for audio conversion.
+Here easyocr is used to extract the image text , IBM Watson API to translate it and gTTS for audio conversion.
 IBM Watson also provides language identification feature that is also added here.
 
 ## Features
