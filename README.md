@@ -12,8 +12,8 @@ Here easyocr is used to extract the image text , IBM Watson API to translate it 
 IBM Watson also provides language identification feature that is also added here.
 
 ## Features
-Extract - Translate - Convert
-Identify any language 
+* Extract - Translate - Convert
+* Identify any language 
 
-** Provided an ouput in Out folder, where the signboard text was Reserved Parking. **
-** Two files provided in that folder , one with audio of extracted text an other with audio of translated text. **
+**Provided an ouput in Out folder, where the signboard text was Reserved Parking.**
+**Two files provided in that folder , one with audio of extracted text an other with audio of translated text.**
