@@ -14,7 +14,7 @@ import utils
 
 
 
-col1,col2,col6 = st.beta_columns(3)
+col1,col2,col6 = st.columns(3)
 nav=st.sidebar.radio("Navigation bar", ["Home","ETC","Lang_identify"])
 
 helper = {'English':'en','Hindi':'hi','Bengali':'bn','Gujarati':'gu','Kannada':'kn','Malayalam':'ml','Marathi':'mr','Odia (Oriya)':'or','Punjabi':'pa','Tamil':'ta','Telugu':'te'}
